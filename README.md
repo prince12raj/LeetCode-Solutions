@@ -7,6 +7,7 @@
 | [0044-wildcard-matching](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0647-palindromic-substrings](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [1092-shortest-common-supersequence](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1092-shortest-common-supersequence) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/prince12raj/LeetCode-Solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -46,4 +47,8 @@
 | ------- |
 | [3074-apple-redistribution-into-boxes](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3075-maximize-happiness-of-selected-children) |
+## Prefix Sum
+|  |
+| ------- |
+| [2483-minimum-penalty-for-a-shop](https://github.com/prince12raj/LeetCode-Solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 <!---LeetCode Topics End-->
