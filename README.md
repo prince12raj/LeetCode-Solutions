@@ -51,4 +51,8 @@
 |  |
 | ------- |
 | [2483-minimum-penalty-for-a-shop](https://github.com/prince12raj/LeetCode-Solutions/tree/master/2483-minimum-penalty-for-a-shop) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
