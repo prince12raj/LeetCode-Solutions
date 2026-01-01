@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0066-plus-one](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0300-longest-increasing-subsequence](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [2402-meeting-rooms-iii](https://github.com/prince12raj/LeetCode-Solutions/tree/master/2402-meeting-rooms-iii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
@@ -70,4 +71,8 @@
 |  |
 | ------- |
 | [2402-meeting-rooms-iii](https://github.com/prince12raj/LeetCode-Solutions/tree/master/2402-meeting-rooms-iii) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
