@@ -12,6 +12,9 @@ class Solution {
             }
             ans = Math.max(ans, dp[i]);
         }
+        for(int num : dp) {
+            System.out.print(num);
+        }
         return ans;
     }
 }
