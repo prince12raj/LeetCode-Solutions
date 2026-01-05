@@ -1,10 +1,8 @@
 class Solution {
-
     public long maxMatrixSum(int[][] matrix) {
         long totalSum = 0;
         int minAbsVal = Integer.MAX_VALUE;
         int negativeCount = 0;
-
         for (int[] row : matrix) {
             for (int val : row) {
                 totalSum += Math.abs(val);
