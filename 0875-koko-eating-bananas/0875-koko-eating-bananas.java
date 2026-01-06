@@ -3,8 +3,7 @@ class Solution {
         int maxPileSize = 0;
         for (int pile : piles) {
             maxPileSize = Math.max(maxPileSize, pile);
-        }
-        
+        } 
         if (h == piles.length) return maxPileSize;
         int start = 1;
         int end = maxPileSize;
@@ -19,8 +18,7 @@ class Solution {
             } else {
                 end = currSpeed;
             }
-        }
-        
+        }    
         return start;
     }
 }
