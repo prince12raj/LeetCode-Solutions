@@ -15,6 +15,7 @@
 | [0044-wildcard-matching](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0233-number-of-digit-one](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0233-number-of-digit-one) |
 | [0300-longest-increasing-subsequence](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0312-burst-balloons](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0312-burst-balloons) |
 | [0354-russian-doll-envelopes](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0646-maximum-length-of-pair-chain](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
@@ -31,6 +32,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0312-burst-balloons](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0312-burst-balloons) |
 | [0354-russian-doll-envelopes](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0646-maximum-length-of-pair-chain](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
