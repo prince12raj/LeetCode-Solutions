@@ -8,6 +8,7 @@
 | [0647-palindromic-substrings](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [1048-longest-string-chain](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1092-shortest-common-supersequence) |
+| [1143-longest-common-subsequence](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/prince12raj/LeetCode-Solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Dynamic Programming
 |  |
@@ -23,6 +24,7 @@
 | [0673-number-of-longest-increasing-subsequence](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1048-longest-string-chain](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1092-shortest-common-supersequence) |
+| [1143-longest-common-subsequence](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 ## Array
 |  |
