@@ -43,6 +43,7 @@
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1048-longest-string-chain](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1048-longest-string-chain) |
 | [1266-minimum-time-visiting-all-points](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1390-four-divisors](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1390-four-divisors) |
 | [1975-maximum-matrix-sum](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1975-maximum-matrix-sum) |
 | [2402-meeting-rooms-iii](https://github.com/prince12raj/LeetCode-Solutions/tree/master/2402-meeting-rooms-iii) |
@@ -75,6 +76,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0354-russian-doll-envelopes) |
 | [0875-koko-eating-bananas](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 ## Sorting
 |  |
 | ------- |
@@ -90,6 +92,7 @@
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/prince12raj/LeetCode-Solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Database
 |  |
@@ -134,6 +137,7 @@
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1975-maximum-matrix-sum](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1975-maximum-matrix-sum) |
 ## Tree
 |  |
