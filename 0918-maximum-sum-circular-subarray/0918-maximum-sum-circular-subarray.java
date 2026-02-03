@@ -5,7 +5,7 @@ class Solution {
         for(int i=0;i<A.length;i++){
             totalSum += A[i];
             A[i] = -A[i];
-        }     
+        }      
         int circularSum = totalSum + kadaneMaxSum(A);
         if(circularSum == 0)
             return nonCircularSum;
