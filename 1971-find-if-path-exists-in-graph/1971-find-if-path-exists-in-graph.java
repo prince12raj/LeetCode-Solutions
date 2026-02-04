@@ -11,7 +11,6 @@ class Solution {
         boolean[] vis = new boolean[n];
         return dfs(source, destination, adj, vis);
     }
-
     boolean dfs(int s, int d, ArrayList<ArrayList<Integer>> adj, boolean[] vis) {
         if (s == d) return true;
         vis[s] = true;
