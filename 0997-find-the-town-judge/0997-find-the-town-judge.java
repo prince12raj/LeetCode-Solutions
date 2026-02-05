@@ -1,16 +1,16 @@
 class Solution {
     public int findJudge(int N, int[][] trust) {
-        List<List<Integer>> adj = new ArrayList<>();
-        for (int i = 0; i <= N; i++) {
-            adj.add(new ArrayList<>());
-        }
-        int[] indeg = new int[N + 1];
+        int[][] mat = new int[N + 1][N + 1];
         for (int[] t : trust) {
-            adj.get(t[0]).add(t[1]);
-            indeg[t[1]]++;
+            mat[t[0]][t[1]] = 1;
         }
         for (int i = 1; i <= N; i++) {
-            if (adj.get(i).size() == 0 && indeg[i] == N - 1) {
+            int out = 0, in = 0;
+            for (int j = 1; j <= N; j++) {
+                out += mat[i][j]; 
+                in += mat[j][i]; 
+            }
+            if (out == 0 && in == N - 1) {
                 return i;
             }
         }
