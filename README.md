@@ -63,6 +63,7 @@
 | [3074-apple-redistribution-into-boxes](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3379-transformed-array](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3379-transformed-array) |
+| [3634-minimum-removals-to-balance-array](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3637-trionic-array-i) |
 ## Two Pointers
 |  |
@@ -101,6 +102,7 @@
 | [2402-meeting-rooms-iii](https://github.com/prince12raj/LeetCode-Solutions/tree/master/2402-meeting-rooms-iii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3634-minimum-removals-to-balance-array](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -237,4 +239,8 @@
 | [1020-number-of-enclaves](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
+## Sliding Window
+|  |
+| ------- |
+| [3634-minimum-removals-to-balance-array](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 <!---LeetCode Topics End-->
