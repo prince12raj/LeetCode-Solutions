@@ -77,6 +77,7 @@
 | [0011-container-with-most-water](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0646-maximum-length-of-pair-chain](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
+| [1382-balance-a-binary-search-tree](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1975-maximum-matrix-sum](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1975-maximum-matrix-sum) |
 | [3074-apple-redistribution-into-boxes](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -171,6 +172,7 @@
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -183,12 +185,14 @@
 | [1020-number-of-enclaves](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Design
 |  |
 | ------- |
@@ -225,6 +229,7 @@
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [1382-balance-a-binary-search-tree](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Queue
 |  |
 | ------- |
@@ -246,4 +251,8 @@
 |  |
 | ------- |
 | [3634-minimum-removals-to-balance-array](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
