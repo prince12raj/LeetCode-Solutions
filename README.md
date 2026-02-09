@@ -49,6 +49,7 @@
 | [0733-flood-fill](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0875-koko-eating-bananas](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0918-maximum-sum-circular-subarray](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [0934-shortest-bridge](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0934-shortest-bridge) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0997-find-the-town-judge](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0997-find-the-town-judge) |
 | [1020-number-of-enclaves](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
@@ -166,6 +167,7 @@
 | [0542-01-matrix](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0733-flood-fill) |
+| [0934-shortest-bridge](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0934-shortest-bridge) |
 | [1020-number-of-enclaves](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -185,6 +187,7 @@
 | [0733-flood-fill](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0841-keys-and-rooms) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0934-shortest-bridge](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0934-shortest-bridge) |
 | [1020-number-of-enclaves](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -211,6 +214,7 @@
 | [0733-flood-fill](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0841-keys-and-rooms) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0934-shortest-bridge](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0934-shortest-bridge) |
 | [1020-number-of-enclaves](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
