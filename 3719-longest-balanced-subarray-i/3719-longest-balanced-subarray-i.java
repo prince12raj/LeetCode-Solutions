@@ -7,6 +7,7 @@ class Solution {
             for (int j = i; j < nums.length; j++) {
                 HashMap<Integer, Integer> map = (nums[j] & 1) == 1 ? odd : even;
                 map.put(nums[j], map.getOrDefault(nums[j], 0) + 1);
+
                 if (odd.size() == even.size()) {
                     len = Math.max(len, j - i + 1);
                 }
