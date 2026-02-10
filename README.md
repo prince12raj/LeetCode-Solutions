@@ -68,6 +68,7 @@
 | [3379-transformed-array](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3379-transformed-array) |
 | [3634-minimum-removals-to-balance-array](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3637-trionic-array-i) |
+| [3719-longest-balanced-subarray-i](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -117,6 +118,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/prince12raj/LeetCode-Solutions/tree/master/2483-minimum-penalty-for-a-shop) |
+| [3719-longest-balanced-subarray-i](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Database
 |  |
 | ------- |
@@ -133,6 +135,7 @@
 | [1048-longest-string-chain](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1048-longest-string-chain) |
 | [2402-meeting-rooms-iii](https://github.com/prince12raj/LeetCode-Solutions/tree/master/2402-meeting-rooms-iii) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/prince12raj/LeetCode-Solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3719-longest-balanced-subarray-i](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -158,6 +161,7 @@
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [3719-longest-balanced-subarray-i](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Matrix
 |  |
 | ------- |
@@ -241,6 +245,7 @@
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1382-balance-a-binary-search-tree](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
+| [3719-longest-balanced-subarray-i](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Queue
 |  |
 | ------- |
