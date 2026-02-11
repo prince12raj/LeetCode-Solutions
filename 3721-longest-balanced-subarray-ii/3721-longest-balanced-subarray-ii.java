@@ -1,4 +1,5 @@
 class LazyTag {
+
     int toAdd;
 
     LazyTag() {
@@ -9,8 +10,6 @@ class LazyTag {
         this.toAdd += other.toAdd;
         return this;
     }
-
-
 
     boolean hasTag() {
         return this.toAdd != 0;
