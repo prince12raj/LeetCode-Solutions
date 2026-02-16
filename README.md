@@ -197,6 +197,7 @@
 | [0785-is-graph-bipartite](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0841-keys-and-rooms) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0886-possible-bipartition](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0886-possible-bipartition) |
 | [0934-shortest-bridge](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0934-shortest-bridge) |
 | [1020-number-of-enclaves](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
@@ -227,6 +228,7 @@
 | [0785-is-graph-bipartite](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0841-keys-and-rooms) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0886-possible-bipartition](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0886-possible-bipartition) |
 | [0934-shortest-bridge](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0934-shortest-bridge) |
 | [1020-number-of-enclaves](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
@@ -244,6 +246,7 @@
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0841-keys-and-rooms) |
+| [0886-possible-bipartition](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0886-possible-bipartition) |
 | [0997-find-the-town-judge](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -269,6 +272,7 @@
 | [0200-number-of-islands](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0886-possible-bipartition) |
 | [1020-number-of-enclaves](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
