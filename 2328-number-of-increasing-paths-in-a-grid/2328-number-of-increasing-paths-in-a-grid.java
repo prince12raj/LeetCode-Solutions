@@ -1,5 +1,5 @@
 class Solution {
-    int mod = 1_000_000_007;
+    int mod = 1000000007;
     int[][] dp;
     int[][] dir = {{1,0},{-1,0},{0,1},{0,-1}};
     int n, m;
