@@ -136,6 +136,7 @@
 | [0177-nth-highest-salary](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0177-nth-highest-salary) |
 | [1164-product-price-at-a-given-date](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1164-product-price-at-a-given-date) |
 | [1179-reformat-department-table](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1179-reformat-department-table) |
+| [1211-queries-quality-and-percentage](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1211-queries-quality-and-percentage) |
 ## Hash Table
 |  |
 | ------- |
