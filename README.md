@@ -220,6 +220,7 @@
 | [0934-shortest-bridge](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0934-shortest-bridge) |
 | [1020-number-of-enclaves](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -256,6 +257,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/prince12raj/LeetCode-Solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/prince12raj/LeetCode-Solutions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
@@ -276,6 +278,7 @@
 | [0841-keys-and-rooms](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0886-possible-bipartition) |
 | [0997-find-the-town-judge](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0997-find-the-town-judge) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1514-path-with-maximum-probability](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1514-path-with-maximum-probability) |
 | [1791-find-center-of-star-graph](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -307,6 +310,7 @@
 | [0886-possible-bipartition](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0886-possible-bipartition) |
 | [1020-number-of-enclaves](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Sliding Window
 |  |
