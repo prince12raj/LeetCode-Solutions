@@ -74,6 +74,7 @@
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/prince12raj/LeetCode-Solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3074-apple-redistribution-into-boxes](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3379-transformed-array](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3379-transformed-array) |
 | [3634-minimum-removals-to-balance-array](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3637-trionic-array-i) |
@@ -158,6 +159,7 @@
 | [1514-path-with-maximum-probability](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1514-path-with-maximum-probability) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/prince12raj/LeetCode-Solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2402-meeting-rooms-iii](https://github.com/prince12raj/LeetCode-Solutions/tree/master/2402-meeting-rooms-iii) |
+| [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 ## Simulation
 |  |
 | ------- |
@@ -290,6 +292,7 @@
 | [1971-find-if-path-exists-in-graph](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/prince12raj/LeetCode-Solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/prince12raj/LeetCode-Solutions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+| [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -333,6 +336,7 @@
 | [0743-network-delay-time](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [1514-path-with-maximum-probability](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1514-path-with-maximum-probability) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/prince12raj/LeetCode-Solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 ## Backtracking
 |  |
 | ------- |
