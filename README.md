@@ -202,6 +202,7 @@
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
@@ -219,6 +220,7 @@
 | [0886-possible-bipartition](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0886-possible-bipartition) |
 | [0934-shortest-bridge](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0934-shortest-bridge) |
 | [1020-number-of-enclaves](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1254-number-of-closed-islands](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -230,6 +232,7 @@
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Design
