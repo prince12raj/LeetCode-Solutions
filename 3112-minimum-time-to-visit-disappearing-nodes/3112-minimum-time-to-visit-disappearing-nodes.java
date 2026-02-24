@@ -33,12 +33,12 @@ class Solution {
             int currTime = curr.time;
             if (currTime > dist[node]) continue;
             for (int[] edge : adj.get(node)) {
-                int nbr = edge[0];
+                int nb = edge[0];
                 int weight = edge[1];
-                int newTime = currTime + weight;
-                if (newTime < dist[nbr] && newTime < disappear[nbr]) {
-                    dist[nbr] = newTime;
-                    pq.add(new Pair(nbr, newTime));
+                int nt= currTime + weight;
+                if (nt < dist[nb] && nt < disappear[nb]) {
+                    dist[nb] = nt;
+                    pq.add(new Pair(nb, nt));
                 }
             }
         }
