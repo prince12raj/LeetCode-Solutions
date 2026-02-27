@@ -28,6 +28,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0918-maximum-sum-circular-subarray](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1048-longest-string-chain](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1092-shortest-common-supersequence) |
@@ -164,6 +165,7 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1514-path-with-maximum-probability](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1514-path-with-maximum-probability) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/prince12raj/LeetCode-Solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2402-meeting-rooms-iii](https://github.com/prince12raj/LeetCode-Solutions/tree/master/2402-meeting-rooms-iii) |
@@ -230,6 +232,7 @@
 | [0733-flood-fill](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0841-keys-and-rooms) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0886-possible-bipartition](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0886-possible-bipartition) |
@@ -268,6 +271,7 @@
 | [0733-flood-fill](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0841-keys-and-rooms) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0886-possible-bipartition](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0886-possible-bipartition) |
@@ -295,6 +299,7 @@
 | [0684-redundant-connection](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0886-possible-bipartition) |
 | [0990-satisfiability-of-equality-equations](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0990-satisfiability-of-equality-equations) |
@@ -349,6 +354,7 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1514-path-with-maximum-probability](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1514-path-with-maximum-probability) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/prince12raj/LeetCode-Solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
