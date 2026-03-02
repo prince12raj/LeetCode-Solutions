@@ -1,5 +1,4 @@
 class Solution {
-
     public int minSwaps(int[][] grid) {
         int n = grid.length;
         int[] pos = new int[n];
