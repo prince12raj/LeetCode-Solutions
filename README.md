@@ -16,6 +16,7 @@
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1980-find-unique-binary-string](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/prince12raj/LeetCode-Solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Dynamic Programming
@@ -82,6 +83,7 @@
 | [1582-special-positions-in-a-binary-matrix](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1732-find-the-highest-altitude](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1975-maximum-matrix-sum](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1975-maximum-matrix-sum) |
+| [1980-find-unique-binary-string](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/prince12raj/LeetCode-Solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/prince12raj/LeetCode-Solutions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2402-meeting-rooms-iii](https://github.com/prince12raj/LeetCode-Solutions/tree/master/2402-meeting-rooms-iii) |
@@ -169,6 +171,7 @@
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0997-find-the-town-judge](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0997-find-the-town-judge) |
 | [1048-longest-string-chain](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1048-longest-string-chain) |
+| [1980-find-unique-binary-string](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2402-meeting-rooms-iii](https://github.com/prince12raj/LeetCode-Solutions/tree/master/2402-meeting-rooms-iii) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/prince12raj/LeetCode-Solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3719-longest-balanced-subarray-i](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
@@ -384,6 +387,7 @@
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0401-binary-watch) |
+| [1980-find-unique-binary-string](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
 ## Bit Manipulation
 |  |
 | ------- |
