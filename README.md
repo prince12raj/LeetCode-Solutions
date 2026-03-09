@@ -233,6 +233,7 @@
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -242,6 +243,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0200-number-of-islands) |
@@ -269,6 +271,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -283,6 +286,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
