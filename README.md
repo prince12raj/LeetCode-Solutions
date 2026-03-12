@@ -41,6 +41,7 @@
 | [1092-shortest-common-supersequence](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/prince12raj/LeetCode-Solutions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Array
@@ -130,6 +131,7 @@
 | [0354-russian-doll-envelopes](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0354-russian-doll-envelopes) |
 | [0875-koko-eating-bananas](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Sorting
 |  |
 | ------- |
@@ -253,6 +255,7 @@
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -284,6 +287,7 @@
 | [1319-number-of-operations-to-make-network-connected](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1971-find-if-path-exists-in-graph](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/prince12raj/LeetCode-Solutions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Binary Tree
@@ -306,6 +310,7 @@
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -334,6 +339,7 @@
 | [1254-number-of-closed-islands](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1971-find-if-path-exists-in-graph](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/prince12raj/LeetCode-Solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/prince12raj/LeetCode-Solutions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
@@ -428,6 +434,7 @@
 | [0693-binary-number-with-alternating-bits](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Topological Sort
 |  |
 | ------- |
