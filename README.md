@@ -71,6 +71,7 @@
 | [0733-flood-fill](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0875-koko-eating-bananas](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0918-maximum-sum-circular-subarray](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [0924-minimize-malware-spread](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0924-minimize-malware-spread) |
 | [0934-shortest-bridge](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0934-shortest-bridge) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0990-satisfiability-of-equality-equations](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0990-satisfiability-of-equality-equations) |
@@ -192,6 +193,7 @@
 | ------- |
 | [0721-accounts-merge](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0924-minimize-malware-spread](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0924-minimize-malware-spread) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -304,6 +306,7 @@
 | [0841-keys-and-rooms](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0841-keys-and-rooms) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0886-possible-bipartition](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0886-possible-bipartition) |
+| [0924-minimize-malware-spread](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0924-minimize-malware-spread) |
 | [0934-shortest-bridge](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0934-shortest-bridge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -359,6 +362,7 @@
 | [0841-keys-and-rooms](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0841-keys-and-rooms) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0886-possible-bipartition](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0886-possible-bipartition) |
+| [0924-minimize-malware-spread](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0924-minimize-malware-spread) |
 | [0934-shortest-bridge](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0934-shortest-bridge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
@@ -389,6 +393,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0886-possible-bipartition) |
+| [0924-minimize-malware-spread](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0924-minimize-malware-spread) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0990-satisfiability-of-equality-equations](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [0997-find-the-town-judge](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0997-find-the-town-judge) |
@@ -427,6 +432,7 @@
 | [0721-accounts-merge](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0886-possible-bipartition) |
+| [0924-minimize-malware-spread](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0924-minimize-malware-spread) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0990-satisfiability-of-equality-equations](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [1020-number-of-enclaves](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
