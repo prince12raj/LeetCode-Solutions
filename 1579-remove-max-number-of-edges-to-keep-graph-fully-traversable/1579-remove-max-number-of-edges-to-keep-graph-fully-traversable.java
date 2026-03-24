@@ -1,16 +1,13 @@
 class Solution {
     class DSU {
         int[] parent, rank;
-
         DSU(int n) {
             parent = new int[n + 1];
             rank = new int[n + 1];
-
             for(int i = 1; i <= n; i++) {
                 parent[i] = i;
             }
         }
-
         int find(int x) {
             if(parent[x] != x) {
                 parent[x] = find(parent[x]);
@@ -31,7 +28,6 @@ class Solution {
                 parent[pb] = pa;
                 rank[pa]++;
             }
-
             return true;
         }
     }
