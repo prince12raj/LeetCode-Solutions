@@ -18,6 +18,7 @@
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/prince12raj/LeetCode-Solutions/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2573-find-the-string-with-lcp](https://github.com/prince12raj/LeetCode-Solutions/tree/master/2573-find-the-string-with-lcp) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Dynamic Programming
@@ -47,6 +48,7 @@
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/prince12raj/LeetCode-Solutions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+| [2573-find-the-string-with-lcp](https://github.com/prince12raj/LeetCode-Solutions/tree/master/2573-find-the-string-with-lcp) |
 ## Array
 |  |
 | ------- |
@@ -98,6 +100,7 @@
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/prince12raj/LeetCode-Solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/prince12raj/LeetCode-Solutions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2402-meeting-rooms-iii](https://github.com/prince12raj/LeetCode-Solutions/tree/master/2402-meeting-rooms-iii) |
+| [2573-find-the-string-with-lcp](https://github.com/prince12raj/LeetCode-Solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/prince12raj/LeetCode-Solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3074-apple-redistribution-into-boxes](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -130,6 +133,7 @@
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1975-maximum-matrix-sum](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1975-maximum-matrix-sum) |
+| [2573-find-the-string-with-lcp](https://github.com/prince12raj/LeetCode-Solutions/tree/master/2573-find-the-string-with-lcp) |
 | [3074-apple-redistribution-into-boxes](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Recursion
@@ -271,6 +275,7 @@
 | [1975-maximum-matrix-sum](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1975-maximum-matrix-sum) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/prince12raj/LeetCode-Solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/prince12raj/LeetCode-Solutions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+| [2573-find-the-string-with-lcp](https://github.com/prince12raj/LeetCode-Solutions/tree/master/2573-find-the-string-with-lcp) |
 | [3546-equal-sum-grid-partition-i](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -449,6 +454,7 @@
 | [1319-number-of-operations-to-make-network-connected](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1971-find-if-path-exists-in-graph](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
+| [2573-find-the-string-with-lcp](https://github.com/prince12raj/LeetCode-Solutions/tree/master/2573-find-the-string-with-lcp) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Sliding Window
 |  |
