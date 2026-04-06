@@ -73,6 +73,7 @@
 | [0721-accounts-merge](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0733-flood-fill) |
+| [0874-walking-robot-simulation](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0918-maximum-sum-circular-subarray](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0924-minimize-malware-spread](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0924-minimize-malware-spread) |
@@ -208,6 +209,7 @@
 | ------- |
 | [0721-accounts-merge](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0874-walking-robot-simulation](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0874-walking-robot-simulation) |
 | [0924-minimize-malware-spread](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0924-minimize-malware-spread) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -234,6 +236,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0874-walking-robot-simulation](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0874-walking-robot-simulation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2402-meeting-rooms-iii](https://github.com/prince12raj/LeetCode-Solutions/tree/master/2402-meeting-rooms-iii) |
 | [3379-transformed-array](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3379-transformed-array) |
