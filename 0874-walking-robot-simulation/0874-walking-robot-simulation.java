@@ -1,5 +1,4 @@
 class Solution {
-
     private static final long HASH_MULTIPLIER = 60013;
     public int robotSim(int[] commands, int[][] obstacles) {
         Set<Long> obstacleSet = new HashSet<>();
@@ -30,7 +29,12 @@ class Solution {
                 currentPosition[0] = nextX;
                 currentPosition[1] = nextY;
             }
-            maxDistanceSquared = Math.max(maxDistanceSquared,currentPosition[0] * currentPosition[0] +currentPosition[1] * currentPosition[1]);
+
+            maxDistanceSquared = Math.max(
+                maxDistanceSquared,
+                currentPosition[0] * currentPosition[0] +
+                currentPosition[1] * currentPosition[1]
+            );
         }
 
         return maxDistanceSquared;
