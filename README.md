@@ -32,6 +32,7 @@
 | [0233-number-of-digit-one](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0233-number-of-digit-one) |
 | [0300-longest-increasing-subsequence](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0312-burst-balloons) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0337-house-robber-iii) |
 | [0354-russian-doll-envelopes](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
@@ -65,6 +66,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0312-burst-balloons](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0312-burst-balloons) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0354-russian-doll-envelopes](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0542-01-matrix](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0542-01-matrix) |
@@ -275,6 +277,7 @@
 | [0130-surrounded-regions](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0304-range-sum-query-2d-immutable](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0733-flood-fill) |
@@ -328,6 +331,7 @@
 | [0210-course-schedule-ii](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
@@ -391,6 +395,7 @@
 | [0207-course-schedule](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0684-redundant-connection) |
@@ -433,6 +438,7 @@
 | [0207-course-schedule](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0743-network-delay-time) |
@@ -527,11 +533,13 @@
 | [0207-course-schedule](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/prince12raj/LeetCode-Solutions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/prince12raj/LeetCode-Solutions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Counting
 |  |
