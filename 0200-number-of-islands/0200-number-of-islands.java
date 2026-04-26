@@ -1,26 +1,26 @@
 class Solution {
     int n, m;
     public int numIslands(char[][] grid) {
-        if (grid == null || grid.length == 0) return 0;
-        n = grid.length;
-        m = grid[0].length;
-        int count = 0;
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < m; j++) {
-                if (grid[i][j] == '1') {
-                    count++;
-                    dfs(grid, i, j);
+        n =  grid.length;
+        m =  grid[0].length;
+        int cnt = 0;
+        for(int i = 0;i <n ; i++){
+            for(int j = 0 ; j < m ; j++){
+                if(grid[i][j] == '1'){
+                    dfs(i, j , grid);
+                    cnt++;
                 }
             }
         }
-        return count;
+        return cnt;
     }
-    void dfs(char[][] grid, int i, int j) {
-        if (i < 0 || j < 0 || i >= n || j >= m || grid[i][j] == '0') return;
-        grid[i][j] = '0';
-        dfs(grid , i+1 ,j);
-        dfs(grid, i-1 ,j);
-        dfs(grid ,i, j-1);
-        dfs(grid ,i, j+1);
+    public void dfs(int i , int j , char[][] grid){
+        if(i< n && j < m && i >=0 && j >=0 && grid[i][j]== '1'){
+            grid[i][j] = '0';
+            dfs(i+1 , j , grid);
+            dfs(i, j+1, grid);
+            dfs(i, j-1, grid);
+            dfs(i-1, j, grid);
+        }
     }
 }
