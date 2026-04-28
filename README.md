@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0583-delete-operation-for-two-strings](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0696-count-binary-substrings](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0696-count-binary-substrings) |
@@ -320,6 +321,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -342,6 +344,7 @@
 | [0207-course-schedule](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0337-house-robber-iii) |
@@ -382,6 +385,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -392,6 +396,7 @@
 ## Design
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
@@ -408,6 +413,7 @@
 | [0200-number-of-islands](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0542-01-matrix) |
