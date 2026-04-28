@@ -317,6 +317,7 @@
 | [0101-symmetric-tree](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0337-house-robber-iii) |
@@ -333,6 +334,7 @@
 | [0100-same-tree](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0133-clone-graph) |
@@ -377,6 +379,7 @@
 | [0101-symmetric-tree](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0337-house-robber-iii) |
@@ -571,4 +574,12 @@
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Linked List
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->
