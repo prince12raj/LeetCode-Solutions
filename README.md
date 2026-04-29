@@ -224,6 +224,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0133-clone-graph) |
+| [0138-copy-list-with-random-pointer](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0721-accounts-merge](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0874-walking-robot-simulation](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0874-walking-robot-simulation) |
@@ -590,6 +591,7 @@
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 ## Stack
 |  |
 | ------- |
