@@ -56,6 +56,7 @@
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/prince12raj/LeetCode-Solutions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/prince12raj/LeetCode-Solutions/tree/master/2573-find-the-string-with-lcp) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Array
 |  |
 | ------- |
@@ -131,6 +132,7 @@
 | [3719-longest-balanced-subarray-i](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -314,6 +316,7 @@
 | [3546-equal-sum-grid-partition-i](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Tree
 |  |
 | ------- |
