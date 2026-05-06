@@ -165,6 +165,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
+| [0231-power-of-two](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0233-number-of-digit-one) |
 | [0342-power-of-four](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0342-power-of-four) |
 ## Binary Search
@@ -276,6 +277,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0233-number-of-digit-one) |
 | [0342-power-of-four](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
@@ -565,6 +567,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
