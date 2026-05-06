@@ -1,6 +1,6 @@
 class Solution {
     public static int maxProduct(String[] words) {
-        if (words == null || words.length == 1)
+        if (words == null || words.length == 0)
             return 0;
         int len = words.length;
         int[] value = new int[len];
