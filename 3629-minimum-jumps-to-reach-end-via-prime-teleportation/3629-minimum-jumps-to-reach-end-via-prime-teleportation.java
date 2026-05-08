@@ -1,15 +1,14 @@
 class Solution {
-    private static final int MX = 1000001;
-    private static final List<Integer>[] factors = new ArrayList[MX];
+    private static final int max = 1000001;
+    private static final List<Integer>[] factors = new ArrayList[max];
     static {
-        for (int i = 0; i < MX; i++) factors[i] = new ArrayList<>();
-        for (int i = 2; i < MX; i++) {
+        for (int i = 0; i < max; i++) factors[i] = new ArrayList<>();
+        for (int i = 2; i < max; i++) {
             if (factors[i].isEmpty()) {
-                for (int j = i; j < MX; j += i) factors[j].add(i);
+                for (int j = i; j < max; j += i) factors[j].add(i);
             }
         }
     }
-
     public int minJumps(int[] nums) {
         int n = nums.length;
         Map<Integer, List<Integer>> edges = new HashMap<>();
