@@ -146,6 +146,7 @@
 | [3721-longest-balanced-subarray-ii](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3742-maximum-path-score-in-a-grid) |
+| [3903-smallest-stable-index-i](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -229,6 +230,7 @@
 | [3548-equal-sum-grid-partition-ii](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3721-longest-balanced-subarray-ii) |
+| [3903-smallest-stable-index-i](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 ## Database
 |  |
 | ------- |
