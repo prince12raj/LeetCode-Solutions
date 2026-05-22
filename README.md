@@ -70,6 +70,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0033-search-in-rotated-sorted-array](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0066-plus-one](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -200,6 +201,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
