@@ -3,7 +3,7 @@ class Solution {
         int n = s.length();
         int[] f = new int[n];
         int[] pre = new int[n];
-        f[0] = 0;
+        f[0] = 1;
         for (int i = 0; i < minJump; i++) {
             pre[i] = 1;
         }
