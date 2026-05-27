@@ -330,6 +330,7 @@
 | [0233-number-of-digit-one](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0233-number-of-digit-one) |
 | [0279-perfect-squares](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [1266-minimum-time-visiting-all-points](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
@@ -699,6 +700,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0319-bulb-switcher) |
 ## Game Theory
 |  |
 | ------- |
