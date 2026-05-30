@@ -156,6 +156,7 @@
 | [3075-maximize-happiness-of-selected-children](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3093-longest-common-suffix-queries](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3093-longest-common-suffix-queries) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
+| [3161-block-placement-queries](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3161-block-placement-queries) |
 | [3379-transformed-array](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3379-transformed-array) |
 | [3546-equal-sum-grid-partition-i](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -223,6 +224,7 @@
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2540-minimum-common-value](https://github.com/prince12raj/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
+| [3161-block-placement-queries](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3161-block-placement-queries) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Sorting
 |  |
@@ -353,11 +355,13 @@
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [3161-block-placement-queries](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3161-block-placement-queries) |
 ## Segment Tree
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [3161-block-placement-queries](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3161-block-placement-queries) |
 | [3719-longest-balanced-subarray-i](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3721-longest-balanced-subarray-ii) |
 ## Matrix
