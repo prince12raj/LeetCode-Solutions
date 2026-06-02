@@ -321,6 +321,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0743-network-delay-time](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0743-network-delay-time) |
@@ -581,6 +582,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0918-maximum-sum-circular-subarray](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
@@ -687,11 +689,13 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Linked List
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
