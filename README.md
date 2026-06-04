@@ -155,6 +155,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/prince12raj/LeetCode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2573-find-the-string-with-lcp](https://github.com/prince12raj/LeetCode-Solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2784-check-if-array-is-good](https://github.com/prince12raj/LeetCode-Solutions/tree/master/2784-check-if-array-is-good) |
+| [2965-find-missing-and-repeated-values](https://github.com/prince12raj/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/prince12raj/LeetCode-Solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3074-apple-redistribution-into-boxes](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
@@ -317,6 +318,7 @@
 | [2402-meeting-rooms-iii](https://github.com/prince12raj/LeetCode-Solutions/tree/master/2402-meeting-rooms-iii) |
 | [2540-minimum-common-value](https://github.com/prince12raj/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/prince12raj/LeetCode-Solutions/tree/master/2784-check-if-array-is-good) |
+| [2965-find-missing-and-repeated-values](https://github.com/prince12raj/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/prince12raj/LeetCode-Solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -363,6 +365,7 @@
 | [1266-minimum-time-visiting-all-points](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1390-four-divisors) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/prince12raj/LeetCode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2965-find-missing-and-repeated-values](https://github.com/prince12raj/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -407,6 +410,7 @@
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/prince12raj/LeetCode-Solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/prince12raj/LeetCode-Solutions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/prince12raj/LeetCode-Solutions/tree/master/2573-find-the-string-with-lcp) |
+| [2965-find-missing-and-repeated-values](https://github.com/prince12raj/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3546-equal-sum-grid-partition-i](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
