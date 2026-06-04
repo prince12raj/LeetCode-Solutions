@@ -93,6 +93,7 @@
 | [0200-number-of-islands](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0287-find-the-duplicate-number](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
@@ -180,6 +181,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0287-find-the-duplicate-number](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0541-reverse-string-ii](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -225,6 +227,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0354-russian-doll-envelopes](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0354-russian-doll-envelopes) |
@@ -656,6 +659,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0342-power-of-four](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0401-binary-watch) |
