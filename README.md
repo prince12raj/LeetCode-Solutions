@@ -222,6 +222,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0044-wildcard-matching](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
+| [0050-powx-n](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0233-number-of-digit-one) |
 | [0342-power-of-four](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0342-power-of-four) |
@@ -356,6 +357,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0231-power-of-two) |
