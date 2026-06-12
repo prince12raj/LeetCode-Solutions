@@ -53,6 +53,7 @@
 | [0312-burst-balloons](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0337-house-robber-iii) |
+| [0343-integer-break](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0343-integer-break) |
 | [0354-russian-doll-envelopes](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0542-01-matrix](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0542-01-matrix) |
@@ -372,6 +373,7 @@
 | [0292-nim-game](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0342-power-of-four) |
+| [0343-integer-break](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [1266-minimum-time-visiting-all-points](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1390-four-divisors) |
