@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
+| [0072-edit-distance](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -40,6 +41,7 @@
 | [0044-wildcard-matching](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0087-scramble-string) |
 | [0095-unique-binary-search-trees-ii](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0115-distinct-subsequences](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
