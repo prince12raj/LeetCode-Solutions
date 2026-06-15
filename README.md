@@ -10,6 +10,7 @@
 | [0115-distinct-subsequences](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0318-maximum-product-of-word-lengths](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0318-maximum-product-of-word-lengths) |
+| [0516-longest-palindromic-subsequence](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0541-reverse-string-ii](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0583-delete-operation-for-two-strings](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0583-delete-operation-for-two-strings) |
@@ -60,6 +61,7 @@
 | [0343-integer-break](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0343-integer-break) |
 | [0354-russian-doll-envelopes](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
+| [0516-longest-palindromic-subsequence](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0646-maximum-length-of-pair-chain](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
