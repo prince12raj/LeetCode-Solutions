@@ -4,6 +4,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0044-wildcard-matching](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0087-scramble-string) |
@@ -90,6 +91,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0066-plus-one](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0066-plus-one) |
@@ -765,6 +767,7 @@
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3093-longest-common-suffix-queries) |
 ## Brainteaser
