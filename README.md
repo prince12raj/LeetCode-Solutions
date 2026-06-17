@@ -43,6 +43,7 @@
 | [0042-trapping-rain-water](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0072-edit-distance) |
@@ -96,6 +97,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -221,6 +223,7 @@
 | [0011-container-with-most-water](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
