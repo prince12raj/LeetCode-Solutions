@@ -163,6 +163,7 @@
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1732-find-the-highest-altitude](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
+| [1840-maximum-building-height](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1840-maximum-building-height) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1975-maximum-matrix-sum](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1975-maximum-matrix-sum) |
 | [1980-find-unique-binary-string](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
@@ -287,6 +288,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1840-maximum-building-height](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1840-maximum-building-height) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/prince12raj/LeetCode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2126-destroying-asteroids](https://github.com/prince12raj/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
 | [2402-meeting-rooms-iii](https://github.com/prince12raj/LeetCode-Solutions/tree/master/2402-meeting-rooms-iii) |
@@ -403,6 +405,7 @@
 | [1266-minimum-time-visiting-all-points](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1390-four-divisors) |
+| [1840-maximum-building-height](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1840-maximum-building-height) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/prince12raj/LeetCode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2965-find-missing-and-repeated-values](https://github.com/prince12raj/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3556-sum-of-largest-prime-substrings) |
