@@ -1,17 +1,28 @@
 class Solution {
     public int lengthOfLIS(int[] nums) {
-        int n = nums.length;
-        int dp[] = new int[n];
-        Arrays.fill(dp , 1);
-        int max =0;
-        for(int i = 0 ; i < n ; i++){
-            for(int j = 0; j < i ; j++){
-                if(nums[i] > nums[j]){
-                    dp[i] = Math.max(dp[i], dp[j]+1);
-                }
+    ArrayList<Integer> res = new ArrayList<>();
+    for(int i = 0 ; i < nums.length; i++){
+        int idx = fxn(res, nums[i]);
+        if(idx == res.size()){
+        res.add(nums[i]);
+    }
+    else{
+        res.set(idx , nums[i]);
+    }
+    }
+    return res.size();
+    }
+    int fxn(ArrayList<Integer> res , int target){
+        int l = 0;
+        int h = res.size()-1;
+        while(l <= h){
+            int mid = (l+h)/2;
+            if(res.get(mid) < target){
+                l = mid+1;
+            }else{
+                h = mid-1;
             }
-            max = Math.max(max ,dp[i]);
         }
-        return max;
+        return l;
     }
 }
