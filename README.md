@@ -477,6 +477,7 @@
 | [0337-house-robber-iii](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -545,6 +546,7 @@
 | [0337-house-robber-iii](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -695,6 +697,7 @@
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Shortest Path
 |  |
