@@ -418,6 +418,7 @@
 | [3556-sum-of-largest-prime-substrings](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -761,6 +762,7 @@
 | ------- |
 | [3556-sum-of-largest-prime-substrings](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Merge Sort
 |  |
 | ------- |
