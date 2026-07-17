@@ -190,6 +190,7 @@
 | [3093-longest-common-suffix-queries](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3093-longest-common-suffix-queries) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3161-block-placement-queries](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3161-block-placement-queries) |
+| [3312-sorted-gcd-pair-queries](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3379-transformed-array](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3379-transformed-array) |
 | [3546-equal-sum-grid-partition-i](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -275,6 +276,7 @@
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2540-minimum-common-value](https://github.com/prince12raj/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [3161-block-placement-queries](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3161-block-placement-queries) |
+| [3312-sorted-gcd-pair-queries](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Sorting
@@ -318,6 +320,7 @@
 | [1732-find-the-highest-altitude](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1871-jump-game-vii) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/prince12raj/LeetCode-Solutions/tree/master/2483-minimum-penalty-for-a-shop) |
+| [3312-sorted-gcd-pair-queries](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3546-equal-sum-grid-partition-i](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
@@ -364,6 +367,7 @@
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/prince12raj/LeetCode-Solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3312-sorted-gcd-pair-queries](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -415,6 +419,7 @@
 | [1840-maximum-building-height](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1840-maximum-building-height) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/prince12raj/LeetCode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2965-find-missing-and-repeated-values](https://github.com/prince12raj/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
+| [3312-sorted-gcd-pair-queries](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -752,6 +757,7 @@
 | ------- |
 | [0229-majority-element-ii](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [3312-sorted-gcd-pair-queries](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Ordered Set
 |  |
 | ------- |
@@ -760,6 +766,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -815,4 +822,5 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0062-unique-paths) |
+| [3312-sorted-gcd-pair-queries](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
