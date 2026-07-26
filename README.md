@@ -130,6 +130,7 @@
 | [0455-assign-cookies](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0542-01-matrix](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0628-maximum-product-of-three-numbers](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0695-max-area-of-island](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
@@ -288,6 +289,7 @@
 | [0368-largest-divisible-subset](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0628-maximum-product-of-three-numbers](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0721-accounts-merge](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0977-squares-of-a-sorted-array](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -413,6 +415,7 @@
 | [0342-power-of-four](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
+| [0628-maximum-product-of-three-numbers](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1266-minimum-time-visiting-all-points](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1390-four-divisors) |
