@@ -9,6 +9,7 @@
 | [0072-edit-distance](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
+| [0131-palindrome-partitioning](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0318-maximum-product-of-word-lengths](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0516-longest-palindromic-subsequence](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
@@ -53,6 +54,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
 | [0233-number-of-digit-one](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0233-number-of-digit-one) |
@@ -736,6 +738,7 @@
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0131-palindrome-partitioning](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0357-count-numbers-with-unique-digits](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0401-binary-watch](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0401-binary-watch) |
 | [1980-find-unique-binary-string](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
