@@ -10,6 +10,7 @@
 | [0087-scramble-string](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
+| [0241-different-ways-to-add-parentheses](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0318-maximum-product-of-word-lengths](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0516-longest-palindromic-subsequence](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
@@ -58,6 +59,7 @@
 | [0198-house-robber](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
 | [0233-number-of-digit-one](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0233-number-of-digit-one) |
+| [0241-different-ways-to-add-parentheses](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0279-perfect-squares](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0312-burst-balloons) |
@@ -268,6 +270,7 @@
 | [0050-powx-n](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0233-number-of-digit-one) |
+| [0241-different-ways-to-add-parentheses](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0342-power-of-four](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0342-power-of-four) |
 ## Binary Search
 |  |
@@ -417,6 +420,7 @@
 | [0070-climbing-stairs](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0233-number-of-digit-one) |
+| [0241-different-ways-to-add-parentheses](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0279-perfect-squares](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0319-bulb-switcher) |
@@ -767,6 +771,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0241-different-ways-to-add-parentheses](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/prince12raj/LeetCode-Solutions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Counting
@@ -849,4 +854,8 @@
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
