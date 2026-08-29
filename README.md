@@ -75,6 +75,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0542-01-matrix) |
+| [0553-optimal-division](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0553-optimal-division) |
 | [0583-delete-operation-for-two-strings](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0646-maximum-length-of-pair-chain](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
@@ -140,6 +141,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0542-01-matrix](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0542-01-matrix) |
+| [0553-optimal-division](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0553-optimal-division) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
@@ -435,6 +437,7 @@
 | [0343-integer-break](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
+| [0553-optimal-division](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0553-optimal-division) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1140-stone-game-ii](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1266-minimum-time-visiting-all-points](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
