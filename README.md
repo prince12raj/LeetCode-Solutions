@@ -123,6 +123,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
@@ -287,6 +288,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -334,6 +336,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0724-find-pivot-index](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
@@ -736,6 +739,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [1871-jump-game-vii](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3634-minimum-removals-to-balance-array](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
