@@ -92,6 +92,7 @@
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1510-stone-game-iv](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1871-jump-game-vii](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/prince12raj/LeetCode-Solutions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
@@ -343,6 +344,7 @@
 | [1140-stone-game-ii](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1732-find-the-highest-altitude](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1871-jump-game-vii) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/prince12raj/LeetCode-Solutions/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -448,6 +450,7 @@
 | [1344-angle-between-hands-of-a-clock](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1390-four-divisors) |
 | [1510-stone-game-iv](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1840-maximum-building-height](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1840-maximum-building-height) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/prince12raj/LeetCode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2965-find-missing-and-repeated-values](https://github.com/prince12raj/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
@@ -867,6 +870,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0062-unique-paths) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3312-sorted-gcd-pair-queries](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Minimax
 |  |
