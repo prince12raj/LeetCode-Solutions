@@ -4,6 +4,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0044-wildcard-matching](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0072-edit-distance) |
@@ -43,6 +44,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
@@ -233,6 +235,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0287-find-the-duplicate-number](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
@@ -896,4 +899,8 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
