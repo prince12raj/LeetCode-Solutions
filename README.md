@@ -898,6 +898,7 @@
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 ## Nim Game
 |  |
 | ------- |
