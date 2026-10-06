@@ -77,6 +77,7 @@
 | [0357-count-numbers-with-unique-digits](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0553-optimal-division](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0553-optimal-division) |
@@ -148,6 +149,7 @@
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0416-partition-equal-subset-sum](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+| [0494-target-sum](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0553-optimal-division](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0553-optimal-division) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -781,6 +783,7 @@
 | [0131-palindrome-partitioning](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0357-count-numbers-with-unique-digits](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0401-binary-watch](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0401-binary-watch) |
+| [0494-target-sum](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [1980-find-unique-binary-string](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
 ## Bit Manipulation
 |  |
@@ -919,4 +922,12 @@
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0220-contains-duplicate-iii) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
