@@ -22,6 +22,7 @@
 | [0678-valid-parenthesis-string](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0696-count-binary-substrings) |
 | [0721-accounts-merge](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0721-accounts-merge) |
+| [0730-count-different-palindromic-subsequences](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0730-count-different-palindromic-subsequences) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0990-satisfiability-of-equality-equations](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [1048-longest-string-chain](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1048-longest-string-chain) |
@@ -86,6 +87,7 @@
 | [0647-palindromic-substrings](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0730-count-different-palindromic-subsequences](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0730-count-different-palindromic-subsequences) |
 | [0741-cherry-pickup](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0741-cherry-pickup) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0918-maximum-sum-circular-subarray](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
