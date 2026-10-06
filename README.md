@@ -22,6 +22,7 @@
 | [0678-valid-parenthesis-string](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0696-count-binary-substrings) |
 | [0721-accounts-merge](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0721-accounts-merge) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0990-satisfiability-of-equality-equations](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [1048-longest-string-chain](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1092-shortest-common-supersequence) |
@@ -269,6 +270,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0860-lemonade-change) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1382-balance-a-binary-search-tree](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -848,6 +850,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
@@ -899,6 +902,7 @@
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Nim Game
 |  |
 | ------- |
