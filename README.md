@@ -240,6 +240,7 @@
 | [3838-weighted-word-mapping](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Two Pointers
 |  |
 | ------- |
@@ -259,6 +260,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/prince12raj/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/prince12raj/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/prince12raj/LeetCode-Solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Greedy
 |  |
 | ------- |
