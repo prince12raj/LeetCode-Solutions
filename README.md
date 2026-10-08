@@ -25,6 +25,7 @@
 | [0730-count-different-palindromic-subsequences](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0730-count-different-palindromic-subsequences) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0990-satisfiability-of-equality-equations](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0990-satisfiability-of-equality-equations) |
+| [1021-remove-outermost-parentheses](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1048-longest-string-chain](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
@@ -858,6 +859,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
@@ -910,6 +912,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Nim Game
 |  |
 | ------- |
