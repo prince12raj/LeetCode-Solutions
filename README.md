@@ -167,6 +167,7 @@
 | [0724-find-pivot-index](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0741-cherry-pickup](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0741-cherry-pickup) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0860-lemonade-change](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 | [0870-advantage-shuffle](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0870-advantage-shuffle) |
 | [0874-walking-robot-simulation](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0874-walking-robot-simulation) |
@@ -261,6 +262,7 @@
 | [0647-palindromic-substrings](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0696-count-binary-substrings](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0696-count-binary-substrings) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0870-advantage-shuffle](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0870-advantage-shuffle) |
 | [0977-squares-of-a-sorted-array](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1048-longest-string-chain](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1048-longest-string-chain) |
@@ -320,6 +322,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0354-russian-doll-envelopes](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0354-russian-doll-envelopes) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0875-koko-eating-bananas](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
@@ -342,6 +345,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0721-accounts-merge](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0721-accounts-merge) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0870-advantage-shuffle](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0870-advantage-shuffle) |
 | [0977-squares-of-a-sorted-array](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -440,6 +444,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0743-network-delay-time](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0743-network-delay-time) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1514-path-with-maximum-probability](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1514-path-with-maximum-probability) |
