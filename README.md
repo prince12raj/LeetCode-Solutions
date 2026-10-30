@@ -258,6 +258,7 @@
 | [0011-container-with-most-water](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0287-find-the-duplicate-number](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -342,6 +343,7 @@
 | [0220-contains-duplicate-iii](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0354-russian-doll-envelopes](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0455-assign-cookies) |
@@ -449,6 +451,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0743-network-delay-time](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0786-k-th-smallest-prime-fraction) |
@@ -651,6 +654,7 @@
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
@@ -968,4 +972,8 @@
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0494-target-sum) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
