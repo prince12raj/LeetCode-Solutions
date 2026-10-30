@@ -168,6 +168,7 @@
 | [0733-flood-fill](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0741-cherry-pickup](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0741-cherry-pickup) |
 | [0860-lemonade-change](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0860-lemonade-change) |
+| [0870-advantage-shuffle](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0870-advantage-shuffle) |
 | [0874-walking-robot-simulation](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0918-maximum-sum-circular-subarray](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
@@ -260,6 +261,7 @@
 | [0647-palindromic-substrings](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0696-count-binary-substrings](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0696-count-binary-substrings) |
+| [0870-advantage-shuffle](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0870-advantage-shuffle) |
 | [0977-squares-of-a-sorted-array](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1048-longest-string-chain](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1048-longest-string-chain) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/prince12raj/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -281,6 +283,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0860-lemonade-change) |
+| [0870-advantage-shuffle](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0870-advantage-shuffle) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1382-balance-a-binary-search-tree](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
@@ -339,6 +342,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0721-accounts-merge](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0721-accounts-merge) |
+| [0870-advantage-shuffle](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0870-advantage-shuffle) |
 | [0977-squares-of-a-sorted-array](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/prince12raj/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/prince12raj/LeetCode-Solutions/tree/master/1048-longest-string-chain) |
